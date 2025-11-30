@@ -31,7 +31,7 @@
 ## รันโปรเจค (PowerShell)
 1. โคลนโปรเจคจาก GitHub:
 ```powershell
-git clone <your-repository-url>
+git clone https://github.com/Eterhart/CS436_FinalProject.git
 cd CS436_FinalProject/04_Implementation
 ```
 2. ติดตั้ง dependency และรัน dev server:
