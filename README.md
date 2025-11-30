@@ -1,6 +1,6 @@
 # CS436_FinalProject — Password & Passphrase Generator
 
-โปรเจคตัวอย่างสำหรับวิชา CS436: ระบบสร้างรหัสผ่านสุ่ม (Random Password Generator)
+โปรเจคสำหรับวิชา CS436: ระบบสร้างรหัสผ่านสุ่ม (Random Password Generator)
 
 ## ผู้พัฒนา
 1670704251 นุชนิชา รุ่งพรหมา เลขที่ 23
